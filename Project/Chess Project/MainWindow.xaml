@@ -1,0 +1,38 @@
+﻿<Window x:Class="Chess_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chess_Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1025" Width="1225">
+    <Canvas Name="ChessBoard" Background="SaddleBrown">
+        <Label Name="Label1" Canvas.Top="26"/>
+        <Label Name="Label2" />
+        <Label Name="CheckStatus" Content="Label" Canvas.Top="29" Width="229" FontFamily="Comic Sans MS" FontSize="16" Height="56" Canvas.Left="98"/>
+        <Button Name="Undo" Content="Undo" Canvas.Left="478" Canvas.Top="37" Width="76" Click="Button_Click"/>
+        <Label Name="Label3"  Canvas.Top="52"/>
+        <Label Name="Label4" Canvas.Top="78"/>
+        <ComboBox x:Name="playerColour" Canvas.Left="994" Canvas.Top="287" Width="120" SelectedIndex="0">
+            <ComboBoxItem Content="White" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Black" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <ComboBox x:Name="gameType" Canvas.Left="994" Canvas.Top="153" Width="120" SelectedIndex="0">
+            <ComboBoxItem Content="Computer" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Player" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <Slider x:Name="depth" Canvas.Left="994" Canvas.Top="403" Maximum="8" Minimum="1" Width="120" SmallChange="1" Value="1" Interval="29" IsSnapToTickEnabled="True"/>
+        <Label Name ="Info1" Content="Who are you playing against?" Canvas.Left="970" Canvas.Top="105"/>
+        <Label Name ="Info2" Content="If computer, see following options." Canvas.Left="961" Canvas.Top="195"/>
+        <Label Name ="Info3" Content="What colour would you like to play as?" Canvas.Left="951" Canvas.Top="237"/>
+        <Label Name ="Info4" Content="What depth enemy would you want?&#xD;&#xA;Can change throughout match." Canvas.Left="951" Canvas.Top="331" Width="214"/>
+        <Button Name = "GameStart" Content="Begin Game!" Canvas.Left="1018" Canvas.Top="447" Width="75" Click="GameStart_Click"/>
+        <Label Name ="LabeDepth" Content="" Canvas.Left="1048" Canvas.Top="372"/>
+        <Button x:Name="FENSave" Content="Save!" Canvas.Left="1018" Canvas.Top="548" Width="75" Click="FENSave_Click"/>
+        <TextBox x:Name="saveName" Height="23" Canvas.Left="994" TextWrapping="Wrap" Canvas.Top="509" Width="120"/>
+        <ListBox x:Name="saveFiles" Height="124" Canvas.Left="994" Canvas.Top="613" Width="120"/>
+        <Button x:Name="LoadButton" Content="Load Save" Canvas.Left="970" Canvas.Top="751" Width="75" Click="LoadButton_Click"/>
+        <Button x:Name="DeleteButton" Content="Delete Save" Canvas.Left="1061" Canvas.Top="751" Width="75" Click="DeleteButton_Click"/>
+
+    </Canvas>
+</Window>

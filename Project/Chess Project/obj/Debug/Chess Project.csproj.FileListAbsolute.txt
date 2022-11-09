@@ -1,0 +1,120 @@
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project.csprojAssemblyReference.cache
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\App.g.cs
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+G:\Subject Work\Computer Science\Programming\Classwork\Chess Project\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+D:\CS projects\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+D:\CS projects\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+D:\CS projects\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.csprojAssemblyReference.cache
+D:\CS projects\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+D:\CS projects\Chess Project\Chess Project\obj\Debug\App.g.cs
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+D:\CS projects\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+D:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+E:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+E:\CS projects\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\Chess Project\obj\Debug\Chess Project.exe
+C:\Users\gaara\Desktop\Chess Project\obj\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project.csprojAssemblyReference.cache
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\App.g.cs
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\PawnExchange.g.cs
+C:\Users\gaara\Desktop\VB\Testing Out STuff\Chess Project\Chess Project\obj\Debug\PawnExchange.baml
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csprojAssemblyReference.cache
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\PawnExchange.g.cs
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\App.g.cs
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\PawnExchange.baml
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+G:\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csprojAssemblyReference.cache
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\PawnExchange.g.cs
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\App.g.cs
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\PawnExchange.baml
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+C:\Users\gaara\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csprojAssemblyReference.cache
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\PawnExchange.g.cs
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\App.g.cs
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\PawnExchange.baml
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+\\LSS4620-FS\Users$\Y2014\Simpson14\14SIM26\Subject Work\Computer Science\Programming\Chess Project\Chess Project\obj\Debug\Chess Project.pdb
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\bin\Debug\Chess Project.exe.config
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\bin\Debug\Chess Project.exe
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\bin\Debug\Chess Project.pdb
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.AssemblyReference.cache
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\MainWindow.g.cs
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\PawnExchange.g.cs
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\App.g.cs
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.cache
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project_MarkupCompile.lref
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\MainWindow.baml
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\PawnExchange.baml
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.g.resources
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess_Project.Properties.Resources.resources
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.GenerateResource.cache
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.csproj.CoreCompileInputs.cache
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.exe
+C:\Users\Pavel S\Desktop\VB\NEA\Chess Project\Chess Project\obj\Debug\Chess Project.pdb

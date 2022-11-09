@@ -1,0 +1,13 @@
+﻿<Window x:Class="Chess_Project.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chess_Project"
+        mc:Ignorable="d"
+        Title="Window1" Height="500" Width="500">
+    <Canvas Margin="0,0,-6.4,0.4" Name="ExchangePick">
+        <Label x:Name="titl" Content="Pick your piece to exchange into!" HorizontalAlignment="Left" Margin="76,27,0,0" VerticalAlignment="Top" Height="81" Width="352" RenderTransformOrigin="0.512,0.533" FontFamily="Papyrus" FontSize="24"/>
+
+    </Canvas>
+</Window>
