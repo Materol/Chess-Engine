@@ -8,4 +8,4 @@ There is a lot of room for improvement in efficiency of the algorithm, the main 
 If I was to continue the project, I would look at other people's implementations and work on improving the moveset calculation speed dramatically.
 However, for a first project and designing all the code myself, I am happy with the outcome.
 
-Full report in Report.docx.
+Full report in Project Report.docx.
